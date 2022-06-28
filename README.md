@@ -1,2 +1,2 @@
 # Little-Caesars-Ordering-System
-Hello World my name is john
+Little Caesars ordering application made with Java. Use the user class in the src folder to run1
